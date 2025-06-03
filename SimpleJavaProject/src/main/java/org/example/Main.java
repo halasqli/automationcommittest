@@ -5,7 +5,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        // test with link to work item in jira 2
+        // test with link to work item in jira 3
         System.out.print("Hello and welcome in branch TEST-3");
 
     }
